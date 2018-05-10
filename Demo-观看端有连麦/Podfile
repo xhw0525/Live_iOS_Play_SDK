@@ -1,0 +1,15 @@
+platform :ios, '7.0'
+
+pod 'Mantle'
+pod 'Masonry'
+pod 'SDWebImage'
+pod 'Reachability'
+pod 'BlocksKit'
+pod 'KVOController'
+pod 'MBProgressHUD'
+pod 'ODRefreshControl'
+pod 'AFNetworking'
+pod 'Toast'
+pod 'LazyTableView'
+pod "LeoDanmakuKit"
+
